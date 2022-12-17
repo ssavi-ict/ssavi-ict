@@ -37,17 +37,16 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="50" height="50"/>
 </p>
-
-<br>
+<!---
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ssavi-ict&theme=dark&hide_border=false" width = 300><img src = "https://github-readme-stats.vercel.app/api?username=ssavi-ict&show_icons=true&theme=dark" width = 300>
-
+-->
 <br>
-<b><p align="center">Thanks for your keen interest.</p></b>
+<b><p align="center">Thanks for your keen interest.<br></p></b>
 <br>
 <center>
-<h3>In case if you want to say more than just Thanks</h3>
-
 <a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
+<b>In case if you want to say more than just Thanks...</b>
 </center>
 
 
