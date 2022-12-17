@@ -41,11 +41,7 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ssavi-ict&theme=dark&hide_border=false" width = 300><img src = "https://github-readme-stats.vercel.app/api?username=ssavi-ict&show_icons=true&theme=dark" width = 300>
 -->
 <br>
-<b><p align="center">Thanks for your keen interest.<br></p></b>
-<br>
-<a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img align ="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
-<b><p align="center">In case if you want to say more than just Thanks.</p></b>
+<b>Thanks for your keen interest. If you want to say more than just Thanks... </b><a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img align ='center' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
