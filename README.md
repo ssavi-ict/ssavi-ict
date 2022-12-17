@@ -43,10 +43,9 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 <br>
 <b><p align="center">Thanks for your keen interest.<br></p></b>
 <br>
-<center>
-<a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ssavi" target="_blank"><img align ="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
-<b>In case if you want to say more than just Thanks...</b>
-</center>
+<b><p align="center">In case if you want to say more than just Thanks.</p></b>
+
 
 
