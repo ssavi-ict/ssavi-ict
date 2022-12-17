@@ -18,7 +18,7 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 
 <img align='right' src="https://cdn1.iconfinder.com/data/icons/seo-part-1-1/128/Technical-Support-Options-Productivity-Service-Tools-512.png" width="210" height="210">
 
-- I am currently focusing on exploring several **Test Automation Methodologies** out there.
+- I am currently focusing on exploring several **Test Automation Methodologies** and **AI Based Testing Approaches** out there.
 - Became regular in solving **DSA** problems to enrich my algorithmic skill.
 - Passionate to build nifty but handy projects and contribute in **Open Source Projects**.
 - Fun fact: In my childhood, I used to like the Ads more than the programmes on TV. 😄
