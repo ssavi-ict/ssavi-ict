@@ -39,8 +39,8 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 </p>
 
 <br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=ssavi-ict&theme=dark&hide_border=false" width = 300>
-<img align=right src = "https://github-readme-stats.vercel.app/api?username=ssavi-ict&show_icons=true&theme=dark" width = 300>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ssavi-ict&theme=dark&hide_border=false" width = 300>
+<img align="right" src = "https://github-readme-stats.vercel.app/api?username=ssavi-ict&show_icons=true&theme=dark" width = 300>
 
 <br>
 <b><p align="center">Thanks for your keen interest.</p></b>
