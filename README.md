@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ssavi.ict@gmail.com)
 [![leetcode badge](https://img.shields.io/badge/ssavi-30302f?style=flat&logo=leetcode)](https://leetcode.com/ssavi/)
 [![web_page badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=blogger)](https://sites.google.com/view/iamavik/)
+[![stackoverflow badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/4982627/ssavi)
 [![Resume badge](https://img.shields.io/badge/Download_Resume-30302f?style=flat&logo=downloads)](https://cutt.ly/2XcEFzL)
 <img src="https://komarev.com/ghpvc/?username=ssavi-ict" alt="Avik Sarkar" />
 <!-- <img src="https://avatars.githubusercontent.com/u/14172268" /> -->
