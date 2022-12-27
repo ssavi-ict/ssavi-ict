@@ -39,9 +39,8 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="50" height="50"/>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssavi-ict&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssavi-ict&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssavi-ict&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 
 
 <br>
