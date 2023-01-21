@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=ssavi-ict" alt="Avik Sarkar" />
 <!-- <img src="https://avatars.githubusercontent.com/u/14172268" /> -->
 
-I am a **Software Engineer in Test (Test Engineer - Automation)** in the Quality Tool Lab of **Samsung Research Bangladesh**, an ORC of **Samsung Electronics**.
+I am a **Software Engineer in Test (Test Engineer - Automation)** in the Quality Tool Lab of **Samsung Research Bangladesh**, a GRC of **Samsung Electronics**.
 
 I am passionate about **developing new systems** and **automating stuffs**. I started my journey with Samsung in *September, 2018*. Since then, I am continuing with utmost dedication to make my products successful on market. I usually test, debug and track defects in a bunch of Samsung products such as Smartphones, Smartwatches, Smart Televisions, Galaxy Home Mini, Speakers, Smart Ovens, Robot Vacuum Cleaners, etc. and service which is Samsung Experience Service (SES). 
 
