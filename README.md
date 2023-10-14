@@ -48,6 +48,7 @@ In my service period, till now, I have achieved **2 Employee of the Month** awar
 - <a href="https://toph.co/p/mr-savior" target="_blank">Mr. Savior</a>
 - <a href="https://toph.co/p/stark-tree" target="_blank">Stark Tree</a>
 - <a href="https://www.hackerrank.com/contests/srbd-code-contest-2022-round-2-retake/challenges/xorland-and-the-super-hero" target="_blank">No Big Deal</a>
+- <a href="https://www.hackerrank.com/contests/srbd-code-contest-2023-round-2/challenges/magic-tree-2" target="_blank">An Infinite Graph</a> 
 - And many more Intra/Inter University Contests which is held on PC2.
 <br>
 <b>Wanna give them a try?</b>
