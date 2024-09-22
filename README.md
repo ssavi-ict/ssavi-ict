@@ -9,11 +9,9 @@
 <img src="https://komarev.com/ghpvc/?username=ssavi-ict" alt="Avik Sarkar" />
 <!-- <img src="https://avatars.githubusercontent.com/u/14172268" /> -->
 
-I am a **Software Engineer in Test (Test Engineer - Automation)** in the Quality Tool Lab of **Samsung Research Bangladesh**, a GRC of **Samsung Electronics**.
+I am now working as a **Test Engineer - L4** at **Google** Taiwan site. 
 
-I am passionate about **developing new systems** and **automating stuffs**. I started my journey with Samsung in *September, 2018*. Since then, I am continuing with utmost dedication to make my products successful on market. I usually test, debug and track defects in a bunch of Samsung products such as Smartphones, Smartwatches, Smart Televisions, Galaxy Home Mini, Speakers, Smart Ovens, Robot Vacuum Cleaners, etc. and service which is Samsung Experience Service (SES). 
-
-In my service period, till now, I have achieved **2 Employee of the Month** award in 2020 and 2021, a **Global software certification** award, and a **Best Document of Invention** award. I invented a **patent** for Samsung Electronics which is now in the filing stage. 
+I am passionate about **developing new systems** and **automating stuffs**. My work responsibility is to prepare test plan, define test strategy, organize test efforts, prepare automation plan etc. to ensure your pixel phone's bluetooth gives the best experience. I started my professional journey in *September, 2018* with **Samsung**. At Samsung my responsibility was to test, debug and track defects in a bunch of Samsung appliances and prepare smooth software experience for the userbase. 
 
 ---------
 
