@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ssavi-ict/)
 [![Gmail Badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ssavi.ict@gmail.com)
 [![leetcode badge](https://img.shields.io/badge/ssavi-30302f?style=flat&logo=leetcode)](https://leetcode.com/ssavi/)
-[![web_page badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=blogger)](https://sites.google.com/view/iamavik/)
+[![web_page badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=blogger)](https://aviksarkar.fyi/)
 [![stackoverflow badge](https://img.shields.io/badge/Avik_Sarkar-30302f?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/4982627/ssavi)
 [![Resume badge](https://img.shields.io/badge/Download_Resume-30302f?style=flat&logo=downloads)](https://flowcv.com/resume/9gt3hk210o)
 <img src="https://komarev.com/ghpvc/?username=ssavi-ict" alt="Avik Sarkar" />
